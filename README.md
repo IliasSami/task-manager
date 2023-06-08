@@ -1,6 +1,12 @@
 # task-manager
 Php based Online Task Management Tool by Dhaka Polytechnic Institute Student Ilias Sami
 
+First of all install Xampp or You can host in your Private hsoting. Paste protected.php and project.php in the htdocs. 
+After that, create a Database called: Project, User name: Project and Password: Project and Add that a Local or Web Server as your system config.
+Go to Protected.php and sign up.
+Then login
+You will be redirected to the main tool.
+
 Technical Report
 Online Task Management System with Sign up and Login Functionality
 
